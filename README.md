@@ -54,4 +54,8 @@ I understood that rather than rushing to transform skewed data, the modelling co
 </p> 
 
 ### Freight Value Transformation
-(freight_before_after_Yeo_johnson.png)
+<p align="center">
+  <img src="freight_before_after_Yeo_johnson.png" alt="Price distribution before and after log1p transformation">
+</p>
+
+
