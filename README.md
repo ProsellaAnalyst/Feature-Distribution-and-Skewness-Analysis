@@ -44,3 +44,12 @@ For this project, I’ll be using the **Olist Brazilian E-Commerce dataset** to:
 ## Final Takeaway
 
 I understood that rather than rushing to transform skewed data, the modelling context should come first before deciding whether transformation is appropriate.
+
+
+## Visualizations
+
+### Price Transformation
+(price_transformation.png)
+
+### Freight Value Transformation
+(freight_transformation.png)
