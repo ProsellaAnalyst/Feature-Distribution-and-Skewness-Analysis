@@ -23,6 +23,6 @@ For this project, I’ll be using the **Olist Brazilian E-Commerce dataset** to:
 * NumPy
 * Matplotlib
 
-### What I’m hoping to get from this
+### Key takeaways 
+> Check out the ipynb file for the code.
 
-A practical understanding of how to use statistics to inspect real data and make informed decisions about feature preparation before modeling.
