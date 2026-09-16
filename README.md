@@ -49,7 +49,9 @@ I understood that rather than rushing to transform skewed data, the modelling co
 ## Visualizations
 
 ### Price Transformation
-(price_before_after_log1p.png)
+<p align="center">
+  <img src="price_before_after_log1p.png" alt="Price distribution before and after log1p transformation">
+</p> 
 
 ### Freight Value Transformation
 (freight_before_after_Yeo_johnson.png)
